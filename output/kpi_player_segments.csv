@@ -1,0 +1,11 @@
+player_segment,ab_group,count,avg_rounds,d7_retention
+Casual,gate_30,10119,2.7,1.29
+Casual,gate_40,10604,2.7,1.44
+Engaged,gate_30,14121,46.8,23.93
+Engaged,gate_40,13881,47.7,21.84
+Non-Starter,gate_30,1937,0.0,0.83
+Non-Starter,gate_40,2057,0.0,0.63
+Regular,gate_30,12428,11.8,5.03
+Regular,gate_40,12657,11.8,4.75
+Super Player,gate_30,6090,238.1,71.36
+Super Player,gate_40,6285,235.8,71.23
